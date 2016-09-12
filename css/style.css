@@ -1,0 +1,145 @@
+body { 
+	padding-top: 70px; 
+}
+
+.suggest{
+	margin-top: 10px ;
+}
+
+.offer{
+	color: #3399FF;
+	text-align: center
+
+}
+ 
+
+ .actual{
+ 	background: #CCF;
+ 	margin:2px;
+ }
+
+ .footer{
+ 	margin:40px 0px;
+ 	text-align:center;
+ 	border-top: 2px solid #CCC;
+ 	padding-top: 15px;
+ }
+
+ .navbar-link{
+ 	padding-right: 30px;
+ }
+
+ .copyrights{
+ 	margin:5px;
+ }
+
+ .carousel .item{
+	height: auto;
+    width: 100%;
+
+ 	 
+ }
+
+
+ .thumbnail{
+ 	background-color: #a9a9a9;
+	min-height: 400px;
+
+ }
+
+ .toiawase{
+ 	font-color:red;
+ }
+
+ .page-header{
+ 	background-color: #faebd7;
+ 	padding: 5px;
+ }
+
+ .form-horizontal{
+ 	margin-bottom: 40px;
+ }
+
+ .contact-footer{
+ 	margin:40px 0px;
+ 	text-align:center;
+ 	border-top: 2px solid #CCC;
+ 	padding-top: 15px;
+ }
+
+ .formset{
+ 	background-color: #f0fff0;
+ 	padding:10px 10px 10px 40px;
+ }
+
+ .btns{
+ 	text-align:center;
+ 	margin-top: 30px;
+
+ }
+
+.btn-pet{
+	margin: 0 auto;
+	margin-bottom: 20px;
+	width: 500px;
+}
+ 
+ .header-pic{
+ 	width: 1000px;
+ 	height:200px;
+
+ }
+
+.imagetop .about-top{
+	position: absolute; top:130px; left: 70px;
+ 
+}
+
+.dream{
+	font-size: 30px;
+	color: #8b008b;
+	background-color: #f8f8ff; opacity:0.7;
+	padding:0px 20px;
+}
+
+.strength{
+	margin-left: 10px;
+}
+ 
+
+.title{
+	background-color: #b0e0e6 ;
+
+}
+
+.detail{
+	background-color: #f0fff0;
+ 
+}
+
+.table-about{
+	border: 1px solid #FFF ;
+}
+
+.gaiyou{
+	background-color: #dcdcdc;
+	height:60px;
+	padding: 1px 0px 0px 10px;
+}
+
+.thumbnail2{
+	background-color: #FFF;
+	min-height: 30px;
+
+}
+
+.photomod{
+	width:120px;
+	height:20px;
+ }
+
+.sendbtn{
+ 	text-align:center;
+ 	margin-top: 30px;
+
+ }
