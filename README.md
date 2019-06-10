@@ -1,5 +1,9 @@
-# Portfolio091216
-A portofolio with a bootstrap
+### README
+### Name: Pet Revolution
+### Overview:
+かつて存在していた生物を復活させ販売するペットショップ。
+スライダー（カローセル）やモーダルを使用。
 
-This is the first portfolio posted on Github.
-Please open index.html file first.
+### Function:
+HTML & Bootstrapを使用し作成。
+ 
